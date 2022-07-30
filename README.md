@@ -1,0 +1,2 @@
+# Rummy
+Hobigames Rummy is a famous card game in India. It usually consists of one or two deck cards, with 1-2 printed jokers in total. Rummy, the best way to win Rummy, aims to create sets or sequences (pure and impure) and announce the game before your opponent does. To make these sets, each player picks and discards from a pile. Rummy game in India come in a variety of forms, each with its unique set of rules.
